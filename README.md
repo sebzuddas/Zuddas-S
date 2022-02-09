@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Sebastiano Zuddas 💥
 
 ## About
-- 💻 Web Developer at Project Kestrel
+- 🚀 Avionics lead at Project SunrIde
 - 🎓 3rd year MEng Intelligent Systems & Control Engineering student at the University of Sheffield
 - 📊 Fields of interest: Data Science, System Identification, Complex Systems, Business Strategy
 - 🔥 One of my 2022 goals is to publish more projects on GitHub
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## Languages
-<img align="left" alt="Polish" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
+
 <img align="left" alt="English" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />
-<img align="left" alt="German" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197571.png" />
+<img align="left" alt="Italian" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
 
 <br/>
 <br/>
@@ -61,20 +61,17 @@ Here are some ideas to get you started:
 
 <!--LINKS-->
 [python]: https://www.python.org/about/
-[ruby]: https://www.ruby-lang.org/en/about/
+[C++]: http://www.cplusplus.org/
 [java]: https://www.java.com/en/download/help/whatis_java.html
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 [vs]: https://code.visualstudio.com/docs/editor/whyvscode
 [pycharm]: https://www.jetbrains.com/help/pycharm/quick-start-guide.html
-[atom]: https://atom.io/
+
 [terminal]: https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide
 [git]: https://git-scm.com/about
 [github]: https://github.com/about
 
-[linkedin]: https://www.linkedin.com/in/filip-cierkosz-38758322a
-[instagram]: https://www.instagram.com/__chizo__/
-[stackoverflow]: https://stackoverflow.com/users/16192228/chizo4
-[codewars]: https://www.codewars.com/users/chizo4
+[linkedin]: https://www.linkedin.com/in/sebastiano-zuddas-35b640bb/
+[instagram]: https://www.instagram.com/sebastianozuddas/
+[stackoverflow]: https://stackoverflow.com/users/12397053/zuddas98
+
