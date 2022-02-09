@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/sebastiano-zuddas-35b640bb/
 [instagram]: https://www.instagram.com/sebastianozuddas/
 [stackoverflow]: https://stackoverflow.com/users/12397053/zuddas98
-
+[notion]: https://www.notion.so/
