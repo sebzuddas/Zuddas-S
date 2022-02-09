@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 ## Tools
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vs]
 [<img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][pycharm]
-[<img align="left" alt="Notion" width="35px" src="https://en.wikipedia.org/wiki/Notion_(productivity_software)#/media/File:Notion_app_logo.png" />][notion]
+[<img align="left" alt="Notion" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 
 <br/>
 <br/>
 
-## Languages
+## Spoken Languages
 
 <img align="left" alt="English" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />
 <img align="left" alt="Italian" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
