@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## Spoken Languages
 
 <img align="left" alt="English" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />
-<img align="left" alt="Italian" width="35px" src="https://cdn-icons-png.flaticon.com/512/197/197529.png" />
+<img align="left" alt="Italian" width="35px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" />
 
 <br/>
 <br/>
