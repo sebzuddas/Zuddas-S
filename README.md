@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Sebastiano Zuddas 💥
 
 ## About
-- 🚀 Avionics lead at Project SunrIde
+- 🌱 Systems Engineer @ Future Greens
 - 👑 Royal Academy of Engineering Leadership Scholar
 - 🎓 MEng Intelligent Systems & Control Engineering student at the University of Sheffield
 - 📊 Fields of interest: System Identification, Complex Systems and Control Systems
