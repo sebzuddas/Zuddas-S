@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## About
 - 🌱 Systems Engineer @ Future Greens
-- 👑 Royal Academy of Engineering Leadership Scholar
-- 🎓 MEng Intelligent Systems & Control Engineering student at the University of Sheffield
+- 👑 Leadership Scholar @ Royal Academy of Engineering 
+- 🎓 MEng Intelligent Systems & Control Engineering @ University of Sheffield
 - 📊 Fields of interest: System Identification, Complex Systems and Control Systems
-- 🔥 One of my 2022 goals is to contribute to more projects on GitHub
+- 🔥 One of my 2022 goals is to learn more about cybersecurity
 
 
 ## Programming Languages
