@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 [notion]: https://www.notion.so/
 
 [linkedin]: https://www.linkedin.com/in/sebastiano-zuddas-35b640bb/
-[instagram]: https://www.instagram.com/sebastianozuddas/
+[instagram]: https://www.instagram.com/sebzuddas/
 [stackoverflow]: https://stackoverflow.com/users/12397053/zuddas98
 
