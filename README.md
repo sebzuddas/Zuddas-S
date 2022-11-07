@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👑 Leadership Scholar @ Royal Academy of Engineering 
 - 🎓 MEng Intelligent Systems & Control Engineering @ University of Sheffield
 - 📊 Fields of interest: System Identification, Complex Systems and Control Systems
-- 🔥 One of my 2022 goals is to learn more about cybersecurity
+- 🔥 One of my goals is to learn more about cybersecurity
 
 
 ## Programming Languages
